@@ -1,6 +1,6 @@
 |序号|标题|通过率|难度|通过时间|
 | ---- | ---- | ---- | ---- | ---- |
-|1|[两数之和](https://github.com/xpgreat/leetcode/blob/master/src/problem01/Solution.java)|43.5%|Easy|2019.1.1|
+|1|[两数之和](https://github.com/xpgreat/leetcode/blob/master/src/problem01/Solution.java)|43.5%|Easy|2019-01-01|
 |2|[两数相加](https://github.com/xpgreat/leetcode/blob/master/src/problem02/Solution.java)|28.8%|Medium|
 |3|[无重复字符的最长子串](https://github.com/xpgreat/leetcode/blob/master/src/problem03/Solution.java)|24%|Medium|
 |4|[两个排序数组的中位数](https://github.com/xpgreat/leetcode/blob/master/src/problem04/Solution.java)|30.3%|Hard|
@@ -18,9 +18,9 @@
 |16|[最接近的三数之和](https://github.com/xpgreat/leetcode/blob/master/src/problem16/Solution.java)|34.3%|Medium|
 |17|[电话号码的字母组合](https://github.com/xpgreat/leetcode/blob/master/src/problem17/Solution.java)|42.7%|Medium|
 |18|[四数之和](https://github.com/xpgreat/leetcode/blob/master/src/problem18/Solution.java)|29.1%|Medium|
-|19|[删除链表的倒数第N个节点](https://github.com/xpgreat/leetcode/blob/master/src/problem19/Solution.java)|29.7%|Medium|
+|19|[删除链表的倒数第N个节点](https://github.com/xpgreat/leetcode/blob/master/src/problem19/Solution.java)|29.7%|Medium|2019-02-24|
 |20|[有效的括号](https://github.com/xpgreat/leetcode/blob/master/src/problem20/Solution.java)|31.9%|Easy|
-|21|[合并两个有序链表](https://github.com/xpgreat/leetcode/blob/master/src/problem21/Solution.java)|49.1%|Easy|
+|21|[合并两个有序链表](https://github.com/xpgreat/leetcode/blob/master/src/problem21/Solution.java)|49.1%|Easy|2019-02-24|
 |22|[括号生成](https://github.com/xpgreat/leetcode/blob/master/src/problem22/Solution.java)|63%|Medium|
 |23|[合并K个排序链表](https://github.com/xpgreat/leetcode/blob/master/src/problem23/Solution.java)|37.5%|Hard|
 |24|[两两交换链表中的节点](https://github.com/xpgreat/leetcode/blob/master/src/problem24/Solution.java)|51.6%|Medium|
