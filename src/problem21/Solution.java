@@ -1,5 +1,7 @@
 package problem21;
 
+import base.ListNode;
+
 /**
  * @Author xp
  * @Date：2019-02-24

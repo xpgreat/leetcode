@@ -1,8 +1,8 @@
 |序号|标题|通过率|难度|通过时间|
 | ---- | ---- | ---- | ---- | ---- |
 |1|[两数之和](https://github.com/xpgreat/leetcode/blob/master/src/problem01/Solution.java)|43.5%|Easy|2019-01-01|
-|2|[两数相加](https://github.com/xpgreat/leetcode/blob/master/src/problem02/Solution.java)|28.8%|Medium|
-|3|[无重复字符的最长子串](https://github.com/xpgreat/leetcode/blob/master/src/problem03/Solution.java)|24%|Medium|
+|2|[两数相加](https://github.com/xpgreat/leetcode/blob/master/src/problem02/Solution.java)|28.8%|Medium|2019-02-26|
+|3|[无重复字符的最长子串](https://github.com/xpgreat/leetcode/blob/master/src/problem03/Solution.java)|24%|Medium|2019-02-25|
 |4|[两个排序数组的中位数](https://github.com/xpgreat/leetcode/blob/master/src/problem04/Solution.java)|30.3%|Hard|
 |5|[最长回文子串](https://github.com/xpgreat/leetcode/blob/master/src/problem05/Solution.java)|23.2%|Medium|
 |6|[Z字形变换](https://github.com/xpgreat/leetcode/blob/master/src/problem06/Solution.java)|34.4%|Medium|
