@@ -4,7 +4,7 @@
 |2|[两数相加](https://github.com/xpgreat/leetcode/blob/master/src/problem02/Solution.java)|28.8%|Medium|2019-02-26|
 |3|[无重复字符的最长子串](https://github.com/xpgreat/leetcode/blob/master/src/problem03/Solution.java)|24%|Medium|2019-02-25|
 |4|[两个排序数组的中位数](https://github.com/xpgreat/leetcode/blob/master/src/problem04/Solution.java)|30.3%|Hard|
-|5|[最长回文子串](https://github.com/xpgreat/leetcode/blob/master/src/problem05/Solution.java)|23.2%|Medium|
+|5|[最长回文子串](https://github.com/xpgreat/leetcode/blob/master/src/problem05/Solution.java)|23.2%|Medium|2019-02-26|
 |6|[Z字形变换](https://github.com/xpgreat/leetcode/blob/master/src/problem06/Solution.java)|34.4%|Medium|
 |7|[反转整数](https://github.com/xpgreat/leetcode/blob/master/src/problem07/Solution.java)|28.3%|Easy|
 |8|[字符串转整数 (atoi)](https://github.com/xpgreat/leetcode/blob/master/src/problem08/Solution.java)|15.6%|Medium|
@@ -61,9 +61,9 @@
 |59|[螺旋矩阵 II](https://github.com/xpgreat/leetcode/blob/master/src/problem59/Solution.java)|64.7%|Medium|
 |60|[第k个排列](https://github.com/xpgreat/leetcode/blob/master/src/problem60/Solution.java)|40.5%|Medium|
 |61|[旋转链表](https://github.com/xpgreat/leetcode/blob/master/src/problem61/Solution.java)|32.4%|Medium|
-|62|[不同路径](https://github.com/xpgreat/leetcode/blob/master/src/problem62/Solution.java)|48.3%|Medium|
+|62|[不同路径](https://github.com/xpgreat/leetcode/blob/master/src/problem62/Solution.java)|48.3%|Medium|2019-02-27|
 |63|[不同路径 II](https://github.com/xpgreat/leetcode/blob/master/src/problem63/Solution.java)|29.9%|Medium|
-|64|[最小路径和](https://github.com/xpgreat/leetcode/blob/master/src/problem64/Solution.java)|55.9%|Medium|
+|64|[最小路径和](https://github.com/xpgreat/leetcode/blob/master/src/problem64/Solution.java)|55.9%|Medium|2019-02-28|
 |65|[有效数字](https://github.com/xpgreat/leetcode/blob/master/src/problem65/Solution.java)|10.7%|Hard|
 |66|[加一](https://github.com/xpgreat/leetcode/blob/master/src/problem66/Solution.java)|35.1%|Easy|
 |67|[二进制求和](https://github.com/xpgreat/leetcode/blob/master/src/problem67/Solution.java)|41.1%|Easy|
